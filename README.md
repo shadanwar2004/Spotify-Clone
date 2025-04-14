@@ -11,6 +11,6 @@ Credit : This project was created with inspiration from Spotify’s official web
 
 Liscence : This project is free and open-source. Feel free to use, modify, and share it under the terms of the MIT License.
 
-Live Preview : https://shadanwar2004.github.io/Spotify-Clone/
+Live Demo : https://shadanwar2004.github.io/Spotify-Clone/
 
 My linkedIn : www.linkedin.com/in/shadanwar07
